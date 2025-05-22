@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="image/Dhiraj Sah.png" alt="Dhiraj Kumar Sah Banner" height:284px;/>
+  <img src="image/Dhiraj Sah-img.png" alt="Dhiraj Kumar Sah Banner" height:284px;/>
 </p>
 
 <h1 align="center">Hi there 👋, < devs /></h1>
