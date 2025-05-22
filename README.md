@@ -15,6 +15,13 @@
   <a href="mailto:eyemdheeraj436@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+   I'm **Dhiraj Kumar Sah**, a passionate full-stack developer from Nepal 🇳🇵.Currently focused on building modern, scalable web applications using the MERN stack. In my free time, I love working out, exploring nature, and solving problems through code. I’m also exploring topics like Blockchain in Agriculture for academic research. 
 </p>
 
 ---
