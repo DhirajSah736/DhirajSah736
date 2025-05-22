@@ -3,7 +3,7 @@
   <img src="image/Dhiraj Sah-img.png" alt="Dhiraj Kumar Sah Banner" height:284px;/>
 </p>
 
-<h1 align="center">Hi there 👋, < devs /></h1>
+<h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Hi there 👋, < devs /></h1>
 
 <p align="center">
   <a href="https://github.com/DhirajSah736">
@@ -15,13 +15,13 @@
   <a href="mailto:eyemdheeraj436@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://www.dhirajsah99.com.np">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-   I'm **Dhiraj Kumar Sah**, a passionate full-stack developer from Nepal 🇳🇵.Currently focused on building modern, scalable web applications using the MERN stack. In my free time, I love working out, exploring nature, and solving problems through code. I’m also exploring topics like Blockchain in Agriculture for academic research. 
+   I'm Dhiraj Kumar Sah, a passionate full-stack developer from Nepal 🇳🇵.Currently focused on building modern, scalable web applications using the MERN stack. In my free time, I love working out, exploring nature, and solving problems through code. I’m also exploring topics like Blockchain in Agriculture for academic research. 
 </p>
 
 ---
