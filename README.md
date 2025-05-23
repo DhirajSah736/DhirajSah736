@@ -83,6 +83,17 @@
 - System Design Fundamentals
 
 ---
+
+
+## 📍 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=TaskNest-Modern-To-Do-List-App&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Sorting-Visualizer&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Personal_portfolio-website&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Weather-pulse&theme=radical" />
+</p>
+
+---
 <h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Let's Connect!</h1>
 
 <p align="center">Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!</p>
