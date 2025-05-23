@@ -56,7 +56,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhirajSah736&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhirajSah736&theme=radical" />
 </p>
-
+---
+<h1 align="center"> GitHub Trophies</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DhirajSah736&theme=radical&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
