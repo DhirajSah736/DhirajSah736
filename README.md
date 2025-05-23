@@ -90,32 +90,24 @@
   <a href="https://github.com/DhirajSah736/TaskNest-Modern-To-Do-List-App" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=TaskNest-Modern-To-Do-List-App&theme=radical" alt="TaskNest Repo" />
   </a>
-  <br />
-  <strong>📝 TaskNest:</strong> A sleek to-do list app built with React + Express, enabling efficient task management with a clean UI.
 </p>
 
 <p align="center">
   <a href="https://github.com/DhirajSah736/Sorting-Visualizer" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Sorting-Visualizer&theme=radical" alt="Sorting Visualizer Repo" />
   </a>
-  <br />
-  <strong>🧮 Sorting Visualizer:</strong> A web app to visualize popular sorting algorithms like Bubble, Selection, and Merge sort in real-time.
 </p>
 
 <p align="center">
   <a href="https://github.com/DhirajSah736/Personal_portfolio-website" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Personal_portfolio-website&theme=radical" alt="Portfolio Website Repo" />
   </a>
-  <br />
-  <strong>🌐 Personal Portfolio:</strong> A responsive personal website to showcase projects, skills, and contact details using modern UI/UX.
 </p>
 
 <p align="center">
   <a href="https://github.com/DhirajSah736/Weather-pulse" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Weather-pulse&theme=radical" alt="Weather Pulse Repo" />
   </a>
-  <br />
-  <strong>☁️ Weather Pulse:</strong> A weather forecast app that provides live data using APIs, built with modern JavaScript and responsive design.
 </p>
 
 
