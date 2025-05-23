@@ -44,20 +44,19 @@
 
 <h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Github Stats</h1>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p> -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhirajSah736&show_icons=true&theme=radical" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajSah736&layout=compact&theme=radical" /> -->
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhirajSah736&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhirajSah736&theme=radical" />
 </p>
+
 ---
+
 <h1 align="center"> GitHub Trophies</h1>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DhirajSah736&theme=radical&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
