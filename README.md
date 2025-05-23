@@ -48,6 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DhirajSah736&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajSah736&layout=compact&theme=radical" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhirajSah736&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhirajSah736&theme=radical" />
+</p>
 
 ---
 
