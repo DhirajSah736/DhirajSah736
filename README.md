@@ -79,7 +79,15 @@
 ---
 <h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Let's Connect!</h1>
 
-Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhirajksah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Kumar%20Sah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-dhiraj@example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
