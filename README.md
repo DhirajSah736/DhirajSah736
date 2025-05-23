@@ -54,16 +54,14 @@
 </p>
 
 ---
-
-## 🔥 GitHub Streak
+<h1 align="center">🔥 GitHub Streak</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DhirajSah736&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
-
-## 💬 Motivational Quote
+<h1 align="center">💬 Motivational Quote</h1>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
