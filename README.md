@@ -40,9 +40,13 @@
 
 <h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Github Stats</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhirajSah736&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajSah736&layout=compact&theme=radical" />
 </p>
 
 ---
