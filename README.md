@@ -46,11 +46,27 @@
 </p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhirajSah736&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajSah736&layout=compact&theme=radical" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirajSah736&layout=compact&theme=radical" /> -->
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhirajSah736&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhirajSah736&theme=radical" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DhirajSah736&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 💬 Motivational Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
