@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="mailto:eyemdheeraj436@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhiraj@example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-eyemdheeraj436@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
