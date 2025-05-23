@@ -99,14 +99,10 @@
   <a href="https://github.com/DhirajSah736/Personal_portfolio-website" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Personal_portfolio-website&theme=radical" alt="Portfolio Website Repo" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DhirajSah736/Weather-pulse" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Weather-pulse&theme=radical" alt="Weather Pulse Repo" />
   </a>
 </p>
-
 
 ---
 <h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Let's Connect!</h1>
