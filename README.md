@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-   I'm Dhiraj Kumar Sah, a passionate full-stack developer from Nepal 🇳🇵.Currently focused on building modern, scalable web applications using the MERN stack. In my free time, I love working out, exploring nature, and solving problems through code. I’m also exploring topics like Blockchain in Agriculture for academic research. 
+   I'm Dhiraj Sah, a passionate full-stack developer from Nepal. Currently focused on building modern, scalable web applications using the MERN stack. In my free time, I love working out, exploring nature, and solving problems through code. I’m also exploring topics like Blockchain in Agriculture for academic research. 
 </p>
 
 
@@ -55,6 +55,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhirajSah736&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhirajSah736&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DhirajSah736&theme=radical&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
 ---
