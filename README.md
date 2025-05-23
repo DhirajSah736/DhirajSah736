@@ -15,10 +15,12 @@
      <img src="https://skillicons.dev/icons?i=github" width="60"alt="Github"/>
   </a>
   <a href="https://www.linkedin.com/in/dhiraj-sah-7a3522220/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> -->
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60"alt="LinkedIn"/>
   </a>
   <a href="mailto:eyemdheeraj436@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+    <!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" /> -->
+    <img src="https://skillicons.dev/icons?i=gmail" width="60"alt="Gamil"/>
   </a>
   <a href="https://www.dhirajsah99.com.np">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
