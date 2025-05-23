@@ -72,7 +72,7 @@ Feel free to reach out if you'd like to collaborate, discuss tech, or just say h
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=plastic" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=DhirajSah736&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
