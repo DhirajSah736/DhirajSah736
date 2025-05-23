@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Github Stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
@@ -53,8 +53,8 @@
 - System Design Fundamentals
 
 ---
+<h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Let's Connect!</h1>
 
-### 🌍 Let's Connect!
 Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!
 
 ---
