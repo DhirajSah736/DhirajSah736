@@ -3,7 +3,10 @@
   <img src="image/Dhiraj Sah-img.png" alt="Dhiraj Kumar Sah Banner" height:284px;/>
 </p>
 
-<h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Hi there 👋, < devs /></h1>
+<h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">
+  Hi there 👋, &lt;devs /&gt;
+</h1>
+
 
 <p align="center">
   <a href="https://github.com/DhirajSah736">
