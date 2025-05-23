@@ -85,7 +85,7 @@
 ---
 
 
-## 📍 Featured Projects
+<h1 align="center">Featured Projects</h1>
 <p align="center">
   <a href="https://github.com/DhirajSah736/TaskNest-Modern-To-Do-List-App" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=TaskNest-Modern-To-Do-List-App&theme=radical" alt="TaskNest Repo" />
