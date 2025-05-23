@@ -133,9 +133,11 @@
   </a>
 </p>
 
-
-
 ---
+<h1 align="center">Activity Graph</h1>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirajSah736&theme=radical" alt="GitHub Activity Graph" />
+</p>
 
 
 <p align="center">
