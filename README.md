@@ -24,14 +24,6 @@
    I'm Dhiraj Kumar Sah, a passionate full-stack developer from Nepal 🇳🇵.Currently focused on building modern, scalable web applications using the MERN stack. In my free time, I love working out, exploring nature, and solving problems through code. I’m also exploring topics like Blockchain in Agriculture for academic research. 
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I'm **Dhiraj Kumar Sah**, a passionate full-stack developer from Nepal 🇳🇵.  
-Currently focused on building modern, scalable web applications using the MERN stack.  
-In my free time, I love working out, exploring nature, and solving problems through code.  
-I’m also exploring topics like Blockchain in Agriculture for academic research.
 
 ---
 
