@@ -79,15 +79,33 @@
 ---
 <h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Let's Connect!</h1>
 
+<p align="center">Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!</p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhirajksah/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhiraj-sah-7a3522220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Kumar%20Sah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+</p>
+
+<p align="center">
+  <a href="mailto:eyemdheeraj436@gmail.com">
     <img src="https://img.shields.io/badge/Email-dhiraj@example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/DhirajSah736/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DhirajSah736-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.dhirajsah9.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=about.me" alt="Portfolio" />
+  </a>
+</p>
+
+
 
 ---
 
