@@ -26,8 +26,8 @@
 
 
 ---
+<h1 style="font-weight:bold; font-size:67px; color:#0897bf;" align="center">Tech Stack</h1>
 
-### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,vite,git,github,bootstrap,tailwind,redux,vscode" />
