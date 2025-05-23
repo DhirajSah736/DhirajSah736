@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/DhirajSah736">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub" />
+    <!-- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> -->
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/dhiraj-sah-7a3522220/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
