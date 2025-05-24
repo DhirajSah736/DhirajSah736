@@ -87,8 +87,8 @@
 
 <h1 align="center">Featured Projects</h1>
 <p align="center">
-  <a href="https://github.com/DhirajSah736/TaskNest-Modern-To-Do-List-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=TaskNest-Modern-To-Do-List-App&theme=radical" alt="TaskNest Repo" />
+  <a href="https://github.com/DhirajSah736/TaskNest-A-task-manager-web-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=TaskNest-A-task-manager-web-App&theme=radical" alt="TaskNest Repo" />
   </a>
  <a href="https://github.com/DhirajSah736/Sorting-Visualizer" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DhirajSah736&repo=Sorting-Visualizer&theme=radical" alt="Sorting Visualizer Repo" />
